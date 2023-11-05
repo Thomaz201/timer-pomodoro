@@ -1,6 +1,6 @@
 import { HeaderContainer } from './styles'
 
-import logoThomaz from '../../assets/logo-thomaz-purple.svg'
+import logoThomaz from '../../assets/logo-purple-1.svg'
 import { Scroll, Timer } from 'phosphor-react'
 import { NavLink } from 'react-router-dom'
 
