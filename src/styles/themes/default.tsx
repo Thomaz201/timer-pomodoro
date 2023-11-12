@@ -17,8 +17,6 @@ export const defaultTheme = {
   'pink-500': '#FF79C6',
 
   'green-500': '#50FA7B',
-  // 'green-500': '#05A12C',
-  // 'green-700': '#035C19',
 
   'red-500': '#FF5555',
   'red-700': '#DC0000',
@@ -38,9 +36,11 @@ export const originalTheme = {
   'gray-800': '#202024',
   'gray-900': '#121214',
 
-  'green-300': '#00B37E',
+  'purple-300': '#00B37E',
+  'purple-500': '#00875F',
+  'purple-700': '#015F43',
+
   'green-500': '#00875F',
-  'green-700': '#015F43',
 
   'red-500': '#AB222E',
   'red-700': '#7A1921',
